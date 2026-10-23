@@ -16,6 +16,9 @@ This project delivers an enterprise-grade analytics solution analyzing over 100,
 3. **Analytics & DAX Layer:**
    - Implemented dynamic business logic including Total Revenue, Average Order Value (AOV), Same-Period-Last-Year (SPLY) revenue, and Year-over-Year (YoY) growth percentages.
    - Designed an operational delivery delay KPI evaluating on-time shipping adherence across regional territories.
+### Dataset Access
+The underlying raw transactional dataset is provided by Olist on Kaggle:
+- [Download Brazilian E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download)
 
 ## Core Data Model
 - **Fact Table:** `view_fact_sales` (Grain: 1 row per order item)
