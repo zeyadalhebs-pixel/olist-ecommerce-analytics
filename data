@@ -1,1 +1,14 @@
+Dataset: Brazilian E-Commerce Public Dataset by Olist
+Platform: Kaggle
+Download URL: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
 
+Description:
+This dataset contains 100,000 real anonymized orders from Olist between 2016 and 2018 in Brazil. 
+Due to GitHub file size limits and repository hygiene, raw CSV files are excluded from git version tracking.
+
+Files used in this analysis:
+- olist_orders_dataset.csv
+- olist_order_items_dataset.csv
+- olist_customers_dataset.csv
+- olist_products_dataset.csv
+- product_category_name_translation.csv
